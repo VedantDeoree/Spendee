@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="280dp"
+    android:gravity="bottom"
+    android:orientation="vertical"
+    android:background="#ffddd2"
+    android:theme="@style/ThemeOverlay.AppCompat.Dark">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Spendee"
+        android:textStyle="bold"
+        android:textSize="30dp"
+        android:textColor="#000"
+        android:gravity="center" />
+
+</LinearLayout>
+
+
