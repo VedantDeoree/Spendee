@@ -196,37 +196,8 @@ cd Spendee
 - [ ] Financial goals setting
 - [ ] Advanced reporting features
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Author
-
-**Vedant Deore**
-- GitHub: [@VedantDeoree](https://github.com/VedantDeoree)
-
-## 🙏 Acknowledgments
-
-- Original project by [Nandini Deore](https://github.com/NandiniDeore05)
-- Firebase for backend services
-- MPAndroidChart and AnyChart for visualization
-- Material Design for UI components
-
-## 📞 Support
-
-If you encounter any issues or have questions:
-
-1. Check the [Issues](https://github.com/VedantDeoree/Spendee/issues) page
-2. Create a new issue with detailed description
-3. Include device information and error logs
 
 ---
 
