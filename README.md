@@ -53,8 +53,8 @@ Spendee is a comprehensive personal expense management Android application that 
 
 ### **Frontend**
 - **Language**: Java
-- **Minimum SDK**: API 19 (Android 4.4)
-- **Target SDK**: API 30 (Android 11)
+- **Minimum SDK**: API 19 
+- **Target SDK**: API 30 
 - **UI Framework**: AndroidX with Material Design components
 
 ### **Backend & Database**
